@@ -60,8 +60,8 @@ const aIMG = [
     "https://dashboard.tourge.net/map.png",
   ],
   [
-    "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "NOAA D-RAP/AURORA",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
   ],
   [
     "ISS & RS-44 POSITION",
