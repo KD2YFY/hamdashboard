@@ -76,7 +76,7 @@ const aIMG = [
     "SPC 1/2/3 DAY OUTLOOK",
     "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_HAIL.png", 
     "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_HAIL.png",
-    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3.png","https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_HAIL.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3.png",
   ],
   [
     "LIGHTNING LOCAL/NATIONAL",
