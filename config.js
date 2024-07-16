@@ -74,14 +74,16 @@ const aIMG = [
   ],
   [
     "SPC 1/2/3 DAY OUTLOOK",
-    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1_HAIL.png", 
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2_HAIL.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3.png","https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_TORN.png" , "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_WIND.png", "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3_HAIL.png",
   ],
   [
     "LIGHTNING LOCAL/NATIONAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
   [
-    "MESONET/NORTHWAYCAMERAS",
+    "MESONET/NORTHWAY CAMERAS",
     "https://api.nysmesonet.org/cam/index.php/image/nysm/NHUD/1717760735?blur=false&branding=true","https://511ny.org/map/Cctv/6230--18","https://511ny.org/map/Cctv/6229--18","https://511ny.org/map/Cctv/2088--18","https://511ny.org/map/Cctv/2087--18"
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
