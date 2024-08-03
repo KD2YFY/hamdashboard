@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  //["2196F3", "M17-NYS", "https://m17nys.kd2yfy.net:444", "1"],
+  ["2196F3", "M17-NYS", "https://m17nys.kd2yfy.net:444", "1"],
   [
     "2196F3",
     "M17-USA",
