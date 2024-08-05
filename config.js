@@ -58,7 +58,7 @@ const aIMG = [
   ["RADAR LOCAL/NATIONAL", "https://radar.weather.gov/ridge/standard/KENX_loop.gif", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "APRS",
-    "https://dashboard.tourge.net/map.png",
+    "https://n2yqt.tourge.net/yaac.png",
   ],
   [
     "NOAA D-RAP/AURORA",
