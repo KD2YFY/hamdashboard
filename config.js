@@ -1,4 +1,4 @@
-const disableSetup = false;
+const disableSetup = true;
 var topBarCenterText = `KD2YFY - FN33cm`;
 
 // Grid layout
