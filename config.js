@@ -61,7 +61,7 @@ var aIMG = [
   ],
   [
     "MESONET/NORTHWAY CAMERAS",
-    "https://api.nysmesonet.org/cam/index.php/image/nysm/NHUD/1717760735?blur=false&branding=true","https://511ny.org/map/Cctv/6230--18","https://511ny.org/map/Cctv/6229--18","https://511ny.org/map/Cctv/2088--18","https://511ny.org/map/Cctv/2087--18"
+    "https://api.nysmesonet.org/cam/index.php/image/nysm/CHES", "https://api.nysmesonet.org/cam/index.php/image/nysm/GFAL","https://api.nysmesonet.org/cam/index.php/image/nysm/NHUD","https://511ny.org/map/Cctv/6230--18","https://511ny.org/map/Cctv/6229--18","https://511ny.org/map/Cctv/2088--18","https://511ny.org/map/Cctv/2087--18"
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
