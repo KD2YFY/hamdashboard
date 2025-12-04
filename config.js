@@ -69,7 +69,7 @@ var aIMG = [
     "NHC 2 DAY OUTLOOK",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png"
   ],
-  ["10M/6M SPORADIC-E", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG", "iframe|https://aprs.fi/#!lat=43.2484&lng=-73.3437"],
+  ["10M/6M SPORADIC-E", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG", "iframe|https://aprs.fi/embedded?width=600&height=400&z=11&maptype=roadmap&he_track=KD2YFY&show_aprs=t&show_others=1"],
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
