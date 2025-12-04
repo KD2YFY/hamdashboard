@@ -69,7 +69,7 @@ var aIMG = [
     "NHC 2 DAY OUTLOOK",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png"
   ],
-  ["10M/6M SPORADIC-E", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG", "iframe|https://clock.kd2yfy.net"],
+  ["10M/6M SPORADIC-E", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
