@@ -15,6 +15,7 @@ var aURL = [
   ["2196F3", "Winlink", "https://cms.winlink.org:444/maps/propagation.aspx", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   ["2196F3", "KB2LFZ Clock", "https://clock.kd2yfy.net", "1"],
+  ["2196F3", "KD2YFY.net", "https://kd2yfy.net", "1"],
 
 //Right Side Menus
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
