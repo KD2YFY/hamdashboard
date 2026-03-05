@@ -41,7 +41,7 @@ var aIMG = [
   ["USA Forecast", "https://www.wpc.ncep.noaa.gov//noaa/noaa.gif"],
   [
     "NOAA D-RAP/AURORA",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/latest.png", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
   ],
   [
     "ISS & RS-44 POSITION",
