@@ -1,5 +1,5 @@
-const disableSetup = false;
-const disableLdCfg = false;
+const disableSetup = true;
+const disableLdCfg = true;
 var topBarCenterText = `KD2YFY - FN33cm`;
 
 // Grid layout
